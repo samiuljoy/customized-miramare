@@ -25,7 +25,3 @@ Made some tiny modifications to the [miramare.vim](https://github.com/franchbach
 ![shell](screenshots/sh.png)
 
 ![markdown](screenshots/md.png)
-
-## Conclusion
-
-Feel free to donate with [Bitcoin]: 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
